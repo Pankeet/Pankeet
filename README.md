@@ -1,4 +1,5 @@
-<h3 align="center">A passionate a Software engineer and Web Developer</h3>
+<h1> Hello , I am Pankeet 👋 </h1>
+<h3 align="center">A passionate Software engineer and Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankeet&label=Profile%20views&color=0e75b6&style=flat" alt="pankeet" /> </p>
 
