@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JtA3evi1i80OUwRoxj12Vx7YRYHzh9md/view?usp=drive_link](https://drive.google.com/file/d/1JtA3evi1i80OUwRoxj12Vx7YRYHzh9md/view?usp=drive_link)
 
-- ⚡ Fun fact **Trying to convert my weakness into strength**
+- ⚡ Fun fact **Transforming my flaws into fuel for success**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
