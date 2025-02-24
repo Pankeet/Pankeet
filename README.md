@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an Indian Tourism Website**
 
-- 🌱 I’m currently learning **Websockets , Typescript , Prisma and NextJs**
+- 🌱 I’m currently learning **Websockets , Typescript , NextJs , PostGres and Prisma **
 
 - 📫 How to reach me **pankeet04@gmail.com**
 
