@@ -1,8 +1,6 @@
 <h1>Hello 👋, I'm Pankeet</h1>
 <h3 align="center">A passionate a Software engineer and Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pankeet" alt="pankeet" /></a> </p>
-
 - 🔭 I’m currently working on **an Indian Tourism Website**
 
 - 🌱 I’m currently learning **Websockets , Typescript , Prisma and NextJs**
