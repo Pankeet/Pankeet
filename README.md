@@ -1,4 +1,4 @@
-<h1> Hello , I am Pankeet 👋 </h1>
+<h1> Hello 👋 , I am Pankeet </h1>
 <h3 align="center"><strong></strong>A passionate Software engineer and Web Developer</strong></h3>
 
 - 🔭 I’m currently working on **an Indian Tourism Website**
