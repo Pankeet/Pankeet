@@ -1,13 +1,13 @@
 <h1>Hello 👋, I'm Pankeet</h1>
 <h3 align="center">A passionate a Software engineer and Web Developer</h3>
 
-- 🔭 I’m currently working on an** Indian Tourism Website**
+- 🔭 I'm currently developing my skills in **advanced algorithms** while also refining my understanding of **fundamental data structures**.
 
-- 🌱 I’m currently learning **Websockets , Typescript , Prisma and NextJs**
+- 🌱 I’m currently learning **Websockets , Prisma and NextJs**
 
 - 📫 How to reach me **pankeet04@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JtA3evi1i80OUwRoxj12Vx7YRYHzh9md/view?usp=drive_link](https://drive.google.com/file/d/1RrRpFfDLePmSdr4T64WYzuVNpSL1y2Kd/view?usp=drive_link)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1JtA3evi1i80OUwRoxj12Vx7YRYHzh9md/view?usp=drive_link](https://drive.google.com/file/d/1aG5NvnNrG_abX8veaCes9dYYe9DcBJGJ/view?usp=sharing)]([https://drive.google.com/file/d/1RrRpFfDLePmSdr4T64WYzuVNpSL1y2Kd/view?usp=drive_link](https://drive.google.com/file/d/1aG5NvnNrG_abX8veaCes9dYYe9DcBJGJ/view?usp=sharing))
 
 - ⚡ Fun fact **Trying to convert my weakness into strength**
 
