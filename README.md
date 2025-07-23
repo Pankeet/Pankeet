@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pankeet04@gmail.com**
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1aG5NvnNrG_abX8veaCes9dYYe9DcBJGJ/view?usp=sharing)
+- 📄 📄 View My **Resume**[Resume](https://drive.google.com/file/d/1aG5NvnNrG_abX8veaCes9dYYe9DcBJGJ/view?usp=sharing)
 
 - ⚡ Fun fact **Trying to convert my weakness into strength**
 
