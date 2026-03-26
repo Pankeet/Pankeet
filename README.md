@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently developing my skills in **advanced algorithms** while also refining my understanding of **fundamental data structures**.
 
-- 🌱 I’m currently learning **Prisma and NextJs**
+- 🌱 I’m currently learning **Turbo repos and DevOps**
 
 - 📫 How to reach me **pankeet04@gmail.com**
 
