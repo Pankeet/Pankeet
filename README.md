@@ -24,5 +24,3 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankeet&label=Profile%20views&color=0e75b6&style=flat" alt="pankeet" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankeet&show_icons=true&locale=en&layout=compact" alt="pankeet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&locale=en" alt="pankeet" /></p>
