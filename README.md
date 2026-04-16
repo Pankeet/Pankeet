@@ -19,7 +19,7 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ### 🌐 Professional Profiles
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/pankeet-manubarwala">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
 </a>
