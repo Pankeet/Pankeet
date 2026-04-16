@@ -17,24 +17,6 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ---
 
-### 🌐 Professional Profiles
-
-<p align="center">
-<a href="https://linkedin.com/in/pankeet-manubarwala" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-</a>
-
-<a href="https://codeforces.com/profile/pankeet04" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="50" />
-</a>
-
-<a href="https://www.leetcode.com/pankeet_16" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
-</a>
-</p>
-
----
-
 ### 🛠️ Languages & Technologies
 
 <p align="center">
@@ -43,12 +25,41 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Professional Profiles
+
+<p align="center">
+<a href="https://linkedin.com/in/pankeet-manubarwala">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" />
+</a>
+
+<a href="https://codeforces.com/profile/pankeet04">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" />
+</a>
+
+<a href="https://www.leetcode.com/pankeet_16">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" height="140"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" height="140"/>
 </p>
+
+</td>
+</tr>
+</table>
 
 ---
 
