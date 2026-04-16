@@ -54,6 +54,6 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ### 👀 Profile Views
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=pankeet&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
