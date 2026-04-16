@@ -19,17 +19,17 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ### 🌐 Professional Profiles
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/pankeet-manubarwala" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
 </a>
 
 <a href="https://codeforces.com/profile/pankeet04" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="40" width="50" />
 </a>
 
 <a href="https://www.leetcode.com/pankeet_16" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
 </a>
 </p>
 
@@ -37,7 +37,7 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ### 🛠️ Languages & Technologies
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=angular,arduino,cpp,css,express,git,html,java,js,mongodb,mysql,nextjs,nodejs,postman,python,react,tailwind,ts" />
 </p>
 
@@ -46,17 +46,14 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ### 👀 Profile Views
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pankeet&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
