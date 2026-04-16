@@ -17,18 +17,6 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ---
 
-### 🛠️ Languages & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,arduino,cpp,css,express,git,html,java,js,mongodb,mysql,nextjs,nodejs,postman,python,react,tailwind,ts" />
-</p>
-
----
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌐 Professional Profiles
 
 <p align="center">
@@ -45,21 +33,22 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 </a>
 </p>
 
-</td>
+---
 
-<td width="50%" valign="top">
+### 🛠️ Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,arduino,cpp,css,express,git,html,java,js,mongodb,mysql,nextjs,nodejs,postman,python,react,tailwind,ts" />
+</p>
+
+---
 
 ### 📊 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" height="140"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" height="150"/> &nbsp;&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" height="150"/>
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
