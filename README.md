@@ -12,7 +12,7 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 - 🌱 Exploring **Turborepos** and expanding my proficiency in **DevOps practices**  
 - 📫 Reach me at: **pankeet04@gmail.com**  
 - 📄 View my **Resume**:  
-  👉 https://drive.google.com/file/d/1x3zn67cQJnmz_sG5-yN3HrtcB5UJizRp/view?usp=sharing  
+  👉 https://drive.google.com/file/d/1ojr-60mE3xnuyIZQbh-Ov5gaU88S0Hk0/view?usp=drive_link
 - ⚡ Fun fact: I consistently work on transforming my weaknesses into strengths  
 
 ---
