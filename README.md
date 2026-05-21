@@ -46,8 +46,8 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 ### 📊 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight" height="150"/> &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pankeet&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=pankeet&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
