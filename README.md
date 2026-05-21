@@ -47,7 +47,7 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=pankeet&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=pankeet&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
 </p>
 
 ---
