@@ -6,18 +6,18 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Currently strengthening my expertise in **Advanced Algorithms** and **Core Data Structures**  
-- 🌱 Exploring **Turborepos** and expanding my proficiency in **DevOps practices**  
-- 📫 Reach me at: **pankeet04@gmail.com**  
+-  Currently strengthening my expertise in **Advanced Algorithms** and **Core Data Structures**  
+-  Exploring **Turborepos** and expanding my proficiency in **DevOps practices**  
+-  Reach me at: **pankeet04@gmail.com**  
 - 📄 View my **Resume**:  
   👉 https://drive.google.com/file/d/1lJyqvi0r7XghUK_EaUsE2p54NZCPV2u1/view?usp=sharing
-- ⚡ Fun fact: I consistently work on transforming my weaknesses into strengths  
+-  Fun fact: I consistently work on transforming my weaknesses into strengths  
 
 ---
 
-### 🌐 Professional Profiles
+### Professional Profiles
 
 <p align="left">
 <a href="https://linkedin.com/in/pankeet-manubarwala">
@@ -35,7 +35,7 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ---
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=angular,arduino,cpp,css,express,git,html,java,js,mongodb,mysql,nextjs,nodejs,postman,python,react,tailwind,ts" />
@@ -43,7 +43,7 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 
 ---
 
-### 📊 GitHub Insights
+### GitHub Insights
 
 <p align="center">
   <img
