@@ -46,17 +46,12 @@ A dedicated Software Engineer and Web Developer with a strong inclination toward
 ### GitHub Insights
 
 <p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=pankeet&show_icons=true&theme=tokyonight&hide_border=true"
-    height="160"
-    alt="stats"
-  />
   <img src="https://streak-stats.demolab.com?user=pankeet&theme=tokyonight&hide_border=true" height="160" alt="stats"/>
 </p>
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pankeet&label=Profile%20views&color=0e75b6&style=flat" />
